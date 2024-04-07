@@ -1,4 +1,4 @@
-# Official repository of **Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers**
+# Text-to-Image Diffusion Models are Great Sketch-Photo Matchmakers
 
 Accepted in **CVPR 2024**
 
